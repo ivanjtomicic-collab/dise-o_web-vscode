@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 180" role="img" aria-labelledby="title desc">
+  <title id="title">Visual Studio Code</title>
+  <desc id="desc">Imagen sintetica inspirada en un editor de codigo azul.</desc>
+  <rect width="260" height="180" rx="18" fill="#0b5067"/>
+  <rect x="22" y="24" width="216" height="132" rx="12" fill="#0f5a70"/>
+  <rect x="22" y="24" width="216" height="26" rx="12" fill="#123f54"/>
+  <circle cx="42" cy="37" r="4" fill="#62b8bb"/>
+  <circle cx="58" cy="37" r="4" fill="#d7f1ef"/>
+  <circle cx="74" cy="37" r="4" fill="#7b3cff"/>
+  <path d="M89 112 58 90l31-22 8 11-16 11 16 11-8 11Z" fill="#62b8bb"/>
+  <path d="M171 112 202 90l-31-22-8 11 16 11-16 11 8 11Z" fill="#ffffff"/>
+  <path d="M145 62 119 122" stroke="#d7f1ef" stroke-width="10" stroke-linecap="round"/>
+</svg>

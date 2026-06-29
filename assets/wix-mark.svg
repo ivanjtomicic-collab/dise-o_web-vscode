@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 180" role="img" aria-labelledby="title desc">
+  <title id="title">Wix</title>
+  <desc id="desc">Imagen sintetica inspirada en un constructor visual de sitios web.</desc>
+  <rect width="260" height="180" rx="18" fill="#fbfaf4"/>
+  <rect x="22" y="24" width="216" height="132" rx="12" fill="#ffffff" stroke="#d8dedf"/>
+  <rect x="42" y="48" width="176" height="20" rx="6" fill="#0b5067"/>
+  <rect x="42" y="84" width="78" height="48" rx="8" fill="#d7f1ef"/>
+  <rect x="136" y="84" width="82" height="10" rx="5" fill="#62b8bb"/>
+  <rect x="136" y="106" width="64" height="10" rx="5" fill="#cbd5d8"/>
+  <rect x="136" y="128" width="48" height="10" rx="5" fill="#7b3cff"/>
+  <text x="130" y="166" fill="#151515" font-family="Arial, sans-serif" font-size="34" font-weight="800" text-anchor="middle">WIX</text>
+</svg>
